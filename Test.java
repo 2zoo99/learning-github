@@ -13,3 +13,10 @@ public class Test
         scan.close();
     }
 }
+// input : 10
+/* 
+output : 
+a * 3 = 30
+a / 2 = 5
+a - 1 = 9
+*/ 
