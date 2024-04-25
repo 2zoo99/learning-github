@@ -16,6 +16,7 @@ class Parent{
   	public static void main (String[] args){
     Parent obj = new Child();
     System.out.println(obj.compute(4));
+    // output : 1
 
     int a=2, b=3, c=2, d=4;
     System.out.println(a==b); //false
